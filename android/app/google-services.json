@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224764434264",
+    "project_id": "empoverty-b8c85",
+    "storage_bucket": "empoverty-b8c85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224764434264:android:6cf532694ba1d2279b372d",
+        "android_client_info": {
+          "package_name": "com.example.empoverty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNVSI-2FQXNpIFkn5t1lCAxSGr3P_fcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
